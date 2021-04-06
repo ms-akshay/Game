@@ -19,7 +19,7 @@ body {
 #person {
   width: 20%;
   height: 100%;
-  background-color: red;  
+  background-color: red;
   display: inline-block;
 }
 
@@ -39,7 +39,7 @@ body {
   width: 60%;
   height: 508px;
   /* position: relative; */
-  margin-top: 150px;
+  margin-top: 151px;
   border-radius: 10px;
 }
 
@@ -121,7 +121,6 @@ body {
   left: 30%;
   top: 18%;
   position: absolute;
-  margin: 0;
 }
 #rightbelow {
   height: 200px;
